@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExercicioBolsaFamilia</string>
+    <string name="Municipio">estado</string>
+    <string name="ano">ano</string>
+</resources>
